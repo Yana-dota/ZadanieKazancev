@@ -4,3 +4,6 @@
 ![Screenshot](https://github.com/Yana-dota/ZadanieKazancev/blob/main/im1.jpg
 <h2>Результат функции сложения</h2></br>
 ![Результат кода](https://github.com/Yana-dota/ZadanieKazancev/blob/main/im2.jpg)
+<h2>Загрузка файлов</h2></br>
+Загрузка файлов происходила через кнопку UPLOAD FILES как это видно на картинке ниже
+![upload files](https://github.com/Yana-dota/ZadanieKazancev/blob/main/im3.jpg)</br>
